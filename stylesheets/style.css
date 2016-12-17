@@ -52,6 +52,13 @@ p{
 .characters{
 	position: relative;
 	margin-left: 30%;
+	font-family: 'Share Tech Mono', monospace;
+	font-weight: bold;
+	font-size: 24px;
+	max-width: 350px;
+	text-align: center;
+	border-radius: 12px;	
+}
 }
 .button{
 	font-size: 14px;
