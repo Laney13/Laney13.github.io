@@ -4,7 +4,8 @@ body{
   background: rgba(23, 23, 23, .75);
   margin: 0 auto;
   position: relative;
-}
+  border-radius: 12px;
+  }
 h3{
 	font-family: 'Share Tech Mono', monospace;
 	font-weight: bold;
@@ -15,6 +16,7 @@ h3{
 	margin-left: 20px;
 	text-align: center;
 	border-radius: 12px;
+  max-width: 600px
 }
 div{
   height: 100%;
@@ -32,6 +34,11 @@ p{
   padding: 10px;
   line-height: 28px;
   text-align: justify;
+  border-radius: 12px;
+}
+img{
+  max-width: 100%;
+  position: relative;
   border-radius: 12px;
 }
 .para{
@@ -55,9 +62,9 @@ p{
   padding-bottom: 20px;
 }
 .akanetext{
-	max-width: 1200px;
+  max-width: 1200px;
 	position: relative;
-	margin-top: -69px;
+	margin-top: -65px;
 	margin-left: 20%;
 }
 .kogami{
@@ -67,7 +74,7 @@ p{
   height: 600px;
   margin-left: 12px;
   margin-right: 20%;
-  margin-top: -70px;
+  margin-top: -65px;
   margin-bottom: 20px;
   max-width: 100%;
 }
@@ -77,69 +84,71 @@ p{
 	margin-top: -620px;
 	margin-left: 12px;
 }
-.makishima{
+.ginoza{
   max-width: 1200px;
   position: relative;
   margin-left: 20%;
-  margin-top: 560px;
+  margin-top: 570px;
   margin-bottom: 200px;
   max-width: 1200px;
   max-height: 600px;
-  border-radius: 12px;
 }
-.makishimatext{
-	max-width: 1200px;
-	position: relative;
-	margin-top: -200px;
-	margin-left: 20%;
-	padding-bottom: 0;
+.ginozatext{
+  max-width: 1200px;
+  position: relative;
+  margin-top: -230px;
+  margin-left: 20%;
+  padding-bottom: 0;
 }
-.ginoza{
+.shion{
   padding-top: 65px;
   max-width: 1200px;
   position: relative;
   height: 600px;
   margin-left: 12px;
   margin-right: 20%;
-  margin-top: -70px;
+  margin-top: -60px;
   margin-bottom: 20px;
   max-width: 100%;
 }
-.ginozatext{
-    max-width: 1203px;
+.shiontext{
+  max-width: 1203px;
 	position: relative;
-	margin-top: -49px;
+	margin-top: -20px;
 	margin-left: 12px;
 }
-.shion{
+.yayoi{
   max-width: 1200px;
   position: relative;
   margin-left: 20%;
-  margin-top: -5px;
+  margin-top: 0px;
   margin-bottom: 200px;
   max-width: 1200px;
   max-height: 600px;
-  border-radius: 12px;
 }
-.shiontext{
-    max-width: 1200px;
+.yayoitext{
+  max-width: 1200px;
 	position: relative;
 	margin-top: -200px;
 	margin-left: 20%;
 	padding-bottom: 0;
 }
-.yayoi{
-	max-width: 1203px;
-	position: relative;
-	margin-top: -5px;
-	margin-left: 12px;
+.makishima{
+  max-width: 1200px;
+  position: relative;
+  margin-left: 20%;
+  margin-top: 15px;
+  margin-bottom: 200px;
+  max-width: 1200px;
+  max-height: 600px;
 }
-.yayoitext{
-	max-width: 1153px;
-	position: relative;
-	margin-top: -126px;
-	margin-left: 12px;
-}
+.makishimatext{
+  max-width: 1200px;
+  position: relative;
+  margin-top: -800px;
+  margin-left: 20%;
+  padding-bottom: 0;
+  }
 .role{
   float: right;
 }
@@ -154,7 +163,7 @@ footer{
 	position: relative;
 	background-color: rgba(32,78,72, 1);
 	color: white;
-	margin-top: 10px;
+	margin-top: 700px;
 	margin-bottom: 0px;
 	line-height: 20px;
 	padding-bottom: 10px
