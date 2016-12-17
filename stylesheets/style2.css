@@ -1,15 +1,4 @@
 /*Artfully created by Lea*/
-header{
-	background-size: cover;
-	padding: 10px 10px 10px 10px;
-	height: auto;
-	position: relative;
-    }
-img{
-	max-width: 100%;
-	position: relative;
-	border-radius: 12px;
-}
 body{
   font-family: helvetica, sans-serif;
   background: rgba(23, 23, 23, .75);
