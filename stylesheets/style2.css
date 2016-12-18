@@ -198,6 +198,9 @@ img{
 .role{
   float: right;
 }
+.return{
+  color: white;
+}
 footer{
 	max-height: 100px;
 	min-width: 100%;
