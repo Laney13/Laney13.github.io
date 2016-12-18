@@ -50,13 +50,33 @@ p{
   border-radius: 12px;
 }
 img{
-  max-width: 100%;
+  max-width: 50%;
   position: relative;
   border-radius: 12px;
 }
 .para{
 	margin-left: 15px;
 	margin-right: 15px;
+}
+.introdiminator{
+  padding-top: 85px;
+  max-width: 1200px;
+  position: relative;
+  height: 600px;
+  margin-left: 12px;
+  margin-right: 20%;
+  margin-top: -55px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+.introdominatortext{
+  max-width: 1203px;
+  position: relative;
+  margin-top: -350px;
+  margin-left: 50%;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
 }
 .return{
   color: white;
