@@ -60,17 +60,6 @@ p{
 	text-align: center;
 	border-radius: 12px;	
 }
-.dominators{
-	position: relative;
-	margin-left: 35%;
-	font-family: 'Share Tech Mono', monospace;
-	font-weight: bold;
-	font-size: 24px;
-	color: white;
-	max-width: 150px;
-	text-align: center;
-	border-radius: 12px;	
-}
 .button{
 	font-size: 14px;
 	margin-top: 50px;
