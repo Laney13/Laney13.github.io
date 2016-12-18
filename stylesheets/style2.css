@@ -200,6 +200,7 @@ img{
 }
 .return{
   color: white;
+  max-height: 50px;
 }
 footer{
 	max-height: 100px;
