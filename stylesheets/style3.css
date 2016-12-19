@@ -50,7 +50,7 @@ p{
   border-radius: 12px;
 }
 img{
-  max-width: 50%;
+  max-width: 800px;
   position: relative;
   border-radius: 12px;
 }
@@ -58,7 +58,7 @@ img{
 	margin-left: 15px;
 	margin-right: 15px;
 }
-.introdiminator{
+.introdominator{
   padding-top: 85px;
   max-width: 1200px;
   position: relative;
@@ -72,14 +72,104 @@ img{
 .introdominatortext{
   max-width: 1203px;
   position: relative;
-  margin-top: -350px;
-  margin-left: 50%;
+  margin-top: -640px;
+  margin-left: 55%;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.dominatorlevelstext{
+  max-width: 150px;
+  position: relative;
+  margin-top: 250px;
+  margin-left: 70%;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.non-lethal{
+  padding-top: 85px;
+  max-width: 1200px;
+  position: relative;
+  height: 600px;
+  margin-left: 12px;
+  margin-right: 20%;
+  margin-top: -85px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+.non-lethaltext{
+  max-width: 1203px;
+  position: relative;
+  margin-top: -615px;
+  margin-left: 55%;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.lethal-eliminator{
+  padding-top: 85px;
+  max-width: 1200px;
+  position: relative;
+  height: 600px;
+  margin-left: 12px;
+  margin-right: 20%;
+  margin-top: 245px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+.lethal-eliminatortext{
+  max-width: 1203px;
+  position: relative;
+  margin-top: -620px;
+  margin-left: 55%;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.destroy-decomposer{
+  padding-top: 85px;
+  max-width: 80%;
+  position: relative;
+  height: 600px;
+  margin-left: 12px;
+  margin-right: 20%;
+  margin-top: 280px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+.destroy-decomposertext{
+  max-width: 1203px;
+  position: relative;
+  margin-top: -615px;
+  margin-left: 55%;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.assault{
+  padding-top: 85px;
+  max-width: 1200px;
+  position: relative;
+  height: 600px;
+  margin-left: 12px;
+  margin-right: 20%;
+  margin-top: 305px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+.assaulttext{
+  max-width: 1203px;
+  position: relative;
+  margin-top: -610px;
+  margin-left: 55%;
   margin-right: 30px;
   padding-left: 20px;
   padding-top: 10px;
 }
 .return{
   color: white;
+  margin-top: -200px;
 }
 footer{
 	max-height: 100px;
@@ -88,6 +178,7 @@ footer{
 	background-color: rgba(32,78,72, 1);
 	color: white;
 	margin-top: 50px;
+  margin-left: 0;
 	margin-bottom: 0px;
 	line-height: 20px;
 	padding-bottom: 10px
